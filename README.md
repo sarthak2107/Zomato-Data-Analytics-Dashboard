@@ -45,7 +45,7 @@ An interactive Power BI dashboard created to analyze Zomato’s restaurant data 
 
 ## 🖼️ Dashboard Preview
 
-![Zomato Dashboard Preview](zomato_dashboard.jpeg) <!-- Replace with your actual image path -->
+![Zomato Dashboard Preview](dashboard.png) <!-- Replace with your actual image path -->
 
 ---
 
@@ -61,7 +61,7 @@ An interactive Power BI dashboard created to analyze Zomato’s restaurant data 
 ## 📁 Files Included
 
 - `Zomato Sales Analytics.pbix` – Power BI dashboard file
-- `zomato_dashboard.jpg` – Image preview of the dashboard
+- `dashboard.png` – Image preview of the dashboard
 
 ---
 
